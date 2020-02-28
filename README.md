@@ -1,4 +1,4 @@
-# Máquinas virtuales para HAProxy
+# HAProxy
 
 <div class=text-justify>
 
