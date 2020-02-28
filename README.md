@@ -1,4 +1,4 @@
-# HAProxy
+# HAProxy - High Availability Proxy
 
 <div class=text-justify>
 
